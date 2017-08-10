@@ -1,0 +1,132 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+
+/*Clases comunes */
+
+.rojoBullet { background-color: #f64552};
+.grisBullet { background-color: #f8f8f8 };
+
+.grisClear {
+  color:white;
+}
+.grisDark {
+  color:#212121;
+}
+.grisSoft {
+  color:#8f8f8f;
+}
+
+.btn-amarillo {
+  background-color: #fbd43b;
+}
+
+.turquesa {
+  color: #00c3a3;
+}
+
+.morado {
+  color: #49233b;
+}
+
+/*Section Slider */
+header.home button.control {
+  margin:2px;
+  border-radius: 20px;
+  background-color: #f64552;
+
+}
+ 
+/*Section  final Hello*/
+
+div.top {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+
+div.img {
+  padding: 30px;
+}
+
+
+div.img img {
+  height: 100px;
+}
+
+div.down p {
+  color:white;
+}
+div.down p:nth-child(1){
+
+  border-bottom: 1px solid white;
+  text-align: left;
+  padding: 20px;
+}
+ 
+
+
+div.down img.icon{
+  width:200px;
+  display: flex;
+}
+
+div.down div.img{
+  display: inline-block;
+  margin:40px;
+}
+
+
+
+div.icon-phone-form {
+  display: absolute;
+
+}
+
+div.icon-phone-form img {
+  width: 100px;
+  height: 50px;
+}
+
+span.form-control-feedback{
+  top:42%;
+  right:2%;
+  display: none;
+}
+
+
+
+div.app {background-color: #FBD43B;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           min-height: 545px;
+         }
+
+
+ div.app img {
+    width:120px;
+    height: 120px; 
+
+ }        
+
+
+ input#yearCard, input#monthCard {
+  width: 10%;
+  margin-left: 2px;
+  display: inline-block;
+ }
+
+
+div.form-groups{
+  margin-top:20px;
+  margin-bottom: 10px;
+  
+}
+
