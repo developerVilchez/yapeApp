@@ -1,26 +1,26 @@
-![YaPe](public/assets/img/icons/bcp-logo.png)
-
-#Servicio de Taxi
+![YaPe Lab](public/assets/img/icons/yape-icon.png)
 
 ## Objetivo Funcional
 
-El desarrollo de la solución web para Labcar tiene como objetivo:
+El desarrollo de la solución web para Yape tiene como objetivo:
 
--Brindar una plataforma web responsive en donde el usuario final tenga la opción de solicitar un servicio de taxi, indicando su ubicación inicial y hacia donde desea dirigirse de manera que pueda visualizar la distancia y el costo del servicio.
+-Deployar los conocimientos obtenidos replicando tanto a nivel de Layout y funcional una solución web real: App Yape del BCP.
 
 
 ## Objetivo Técnico
 
-- Layout : Framework Boostrap
+- Patrón de Diseño :  Componentes
 
-- Api HTML5 : Geolocalización
+- APIs Rest 
 
-- Api Google Map : Dibujo del Mapa, autompletado de direcciones, trazado de ruta.
+- Validación de Formularios
 
-`HTML` `JavaScript` `CSS` `BOOTSTRAP` `APIs`  
+- Librería JQuery
+
+  
 
 ### Fuentes consultadas:
-- Bootstrap: url(http://getbootstrap.com/components/)
-- Google MapsAPI: url(https://developers.google.com/maps/?hl=es-419)
+- jQuery: url(http://api.jquery.com/)
+
 
 
