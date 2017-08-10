@@ -1,6 +1,6 @@
-![YaPe](assets/img/icons/bcp-logo.png)
+![YaPe](public/assets/img/icons/bcp-logo.png)
 
-# Servicio de Taxi
+#Servicio de Taxi
 
 ## Objetivo Funcional
 
