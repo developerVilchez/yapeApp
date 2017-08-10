@@ -1,8 +1,12 @@
 ![YaPe Lab](public/assets/img/icons/yape-icon.png)
 
+# YAPE | aplicación del Banco de Crédito del Perú.
+
+App del BCP que permite al usario final hacer uso de su dinero a través de una solución web mobile, en donde pueda gestionar sus pagos sin números de cuenta ni token.
+
 ## Objetivo Funcional
 
-El desarrollo de la solución web para Yape tiene como objetivo:
+El desarrollo del presente proyectotiene como objetivo:
 
 -Deployar los conocimientos obtenidos replicando tanto a nivel de Layout y funcional una solución web real: App Yape del BCP.
 
